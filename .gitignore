@@ -1,0 +1,19 @@
+# Node.js
+SmartFarmingBackend/node_modules/
+SmartFarmingBackend/.env
+
+# Arduino
+build/
+*.log
+*.hex
+*.elf
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
