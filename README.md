@@ -5,7 +5,7 @@ A comprehensive IoT solution for real-time farm monitoring and automated alertin
 ![Smart Farming Header](https://img.shields.io/badge/IoT-Smart%20Farming-green?style=for-the-badge&logo=arduino)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
-## 🚀 Overview
+##  Overview
 
 The **Smart Farming IoT System** monitors environmental conditions and soil health to optimize crop management. It uses an ESP32 microcontroller to collect data from various sensors and transmits it to a centralized backend for storage and alerting.
 
@@ -21,7 +21,7 @@ The **Smart Farming IoT System** monitors environmental conditions and soil heal
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Hardware
 - **ESP32**: Main microcontroller with WiFi connectivity.
@@ -42,7 +42,7 @@ The **Smart Farming IoT System** monitors environmental conditions and soil heal
 
 ---
 
-## 📥 Installation & Setup
+## Installation & Setup
 
 ### 1. Backend Setup
 1. Navigate to the backend directory:
